@@ -1,4 +1,4 @@
-# World Puzzle
+# Word Puzzle
 Android game with Unity
 
 # Genre
