@@ -1,4 +1,4 @@
-# Puzzle Beasts War 
+# World Puzzle
 Android game with Unity
 
 # Genre
